@@ -32,10 +32,10 @@
 - Constantly exploring cutting-edge technologies to expand my toolkit.
 
 ### 💼 My Work & Projects
-Explore all my work here: https://portfolio-parthib-flask.vercel.app/
+Explore all my work here: https://parthib07-parthib-me.static.hf.space
 
 ### 💬 Expertise
-Got questions on **React** or **Machine Learning**? I'm here to help!
+Got questions on **Generative AI** or **Machine Learning**? I'm here to help!
 
 ### 📫 Let's Connect
 Reach out at: parthibkarak2004@gmail.com
