@@ -1,87 +1,109 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<h1 align="center">Parthib Karak</h1>
+<h3 align="center">AI Engineer • Backend Developer • System Builder</h3>
 
-<h2 align="center">Hey there, I'm Parthib Karak 👋</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Machine+Learning+Engineer;AI+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;RAG+%7C+Multi-Agent+Systems+%7C+LLMs;Backend+%2B+AI+Integration+Specialist" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=babaiii07&label=Profile%20views&color=0e75b6&style=flat" alt="babaiii07" /> 
+---
+
+## ⚡ About Me
+- 🎓 Computer Science @ **IEM Kolkata (CGPA: 8.7)**
+- 🧠 Focused on **Generative AI, RAG Systems & Multi-Agent Architectures**
+- ⚙️ Build systems that are **scalable, deployable, and production-ready**
+- 📈 Solved **300+ DSA problems** (LeetCode + CP)
+- 🚀 Currently building **real-world AI applications**, not just demos
+
+---
+
+## 🧠 What I Do
+- 🔹 Design **RAG pipelines (FAISS, Hybrid Search, LangChain)**
+- 🔹 Build **Agentic Systems (LangGraph, Multi-Agent AI)**
+- 🔹 Develop **AI-powered SaaS & backend systems**
+- 🔹 Integrate **LLMs (Groq, Gemini, Open-source models)**
+- 🔹 Work on **end-to-end AI deployment**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Python` `C++` `JavaScript` `SQL`
+
+### ⚡ AI / ML
+`LangChain` `LangGraph` `LlamaIndex`  
+`TensorFlow` `PyTorch` `Scikit-learn`  
+`FAISS` `ChromaDB` `Pinecone`
+
+### 🌐 Backend & Systems
+`Flask` `FastAPI` `Docker`  
+`MongoDB` `MySQL` `Neo4j`
+
+### ☁️ Cloud & Tools
+`AWS` `GCP` `Git` `Linux`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Multi-Document RAG System
+- Hybrid Retrieval (**BM25 + Dense**)
+- FAISS Vector Store
+- FastAPI Streaming Backend  
+👉 Built for **scalable document intelligence**
+
+---
+
+### 🔹 AI Code Review Agent
+- Automated PR analysis
+- Suggests improvements using LLMs  
+👉 Reduces manual code review effort
+
+---
+
+### 🔹 AI Healthcare Chatbot (RAG)
+- PDF-based medical knowledge system  
+- Accurate, context-aware answers  
+👉 Built with **LangChain + FAISS + LLM**
+
+---
+
+### 🔹 Virtual AI Development Team (Multi-Agent)
+- Business Analyst → Developer → Tester Agents  
+- End-to-end project lifecycle automation  
+👉 Built using **LangGraph + Multi-Agent System**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=babaiii07&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=babaiii07&theme=dracula&no-frame=true&column=3" alt="babaiii07" />
-  </a> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babaiii07&theme=tokyonight" />
 </p>
+
+---
+
+## 🌍 Portfolio
+🔗 https://parthib07-parthib-me.static.hf.space
+
+---
+
+## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/babaii_0007" target="blank">
-    <img src="https://img.shields.io/twitter/follow/babaii_0007?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> 
+  <a href="https://linkedin.com/in/parthib-karak-9a0bb1286/" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/babaii_0007" target="_blank">Twitter</a> •
+  <a href="https://leetcode.com/u/parthib_007/" target="_blank">LeetCode</a> •
+  <a href="mailto:parthibkarak2004@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🔭 Currently Working On
-**🌟 Melody Voice Assistant** - Your friendly, AI-powered voice assistant, always ready to help!
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+## ⚡ Mindset
 
-### 🌱 Growing My Skills In
-- **Machine Learning Frameworks**: Scikit-learn, TensorFlow, Keras
-- Constantly exploring cutting-edge technologies to expand my toolkit.
-
-### 💼 My Work & Projects
-Explore all my work here: https://parthib07-parthib-me.static.hf.space
-
-### 💬 Expertise
-Got questions on **Generative AI** or **Machine Learning**? I'm here to help!
-
-### 📫 Let's Connect
-Reach out at: parthibkarak2004@gmail.com
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/babaii_0007" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/parthib-karak-9a0bb1286/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/27420096/parthib-karak" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/parthib.karak/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/babaiii_0007/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/parthib_007/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiXFpSl3CdFyWgP-hEvVbv6g0xawaNdhLRA&s" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babaiii07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babaiii07&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babaiii07&theme=tokyonight" alt="GitHub Streak" />
-</p>
+> I don’t just build AI models.  
+> I build **systems that solve real-world problems at scale.**
