@@ -88,7 +88,7 @@
 ---
 
 ## 🌍 Portfolio
-🔗 https://parthib07-parthib-me.static.hf.space
+🔗 [https://parthib07-parthib-me.static.hf.space](https://parthib07-portfolio.hf.space/)
 
 ---
 
